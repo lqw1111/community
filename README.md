@@ -4,3 +4,6 @@
 [bootstrap](https://v3.bootcss.com/components/#navbar-default)
 
 ## 工具
+
+
+mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
